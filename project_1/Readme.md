@@ -4,9 +4,9 @@
 
 Data Rilascio 31/05/2021
 
-Data Consegna ??? (4gg prima dell'appello)
+Data Consegna 26/06/2021 ore 20.00
 
-Data Appello ???
+Data Appello 29/06/2021 ore 9.00
 
 
 
