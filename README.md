@@ -1,6 +1,6 @@
 # ANALISI DI IMMAGINI E VIDEO
 
-Questa repository contiene il materiale di supplemento per il corso di Analisi di Immagini e Video del corso di Laurea Specialistica in Ingegneria Informatica dell'Università della Calabria (a.a. 2020-2021). 
+Questa repository contiene il materiale di supplemento per il corso di Analisi di Immagini e Video del corso di Laurea Specialistica in Ingegneria Informatica dell'Università della Calabria (a.a. 2021-2022). 
 
 Il materiale è composto da dataset e notebooks di esercitazione 
 
