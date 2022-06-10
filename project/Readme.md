@@ -4,9 +4,9 @@
 
 Data Rilascio 26/05/2022
 
-Data Consegna xx/06/2022 ore 20.00
+Data Consegna 26/06/2022 ore 20.00
 
-Data Appello xx/06/2022 ore 9.00
+Data Appello 29/06/2022 ore 9.00
 
 
 
